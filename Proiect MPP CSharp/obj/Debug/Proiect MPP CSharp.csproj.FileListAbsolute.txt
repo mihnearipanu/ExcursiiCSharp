@@ -1,0 +1,21 @@
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\bin\Debug\Proiect MPP CSharp.exe.config
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\bin\Debug\Proiect MPP CSharp.exe
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\bin\Debug\Proiect MPP CSharp.pdb
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.csprojAssemblyReference.cache
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect_MPP_CSharp.Properties.Resources.resources
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.csproj.GenerateResource.cache
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.exe
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.pdb
+C:\Users\ripan\source\repos\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect_MPP_CSharp.LoginForm.resources
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\bin\Debug\Proiect MPP CSharp.exe.config
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\bin\Debug\Proiect MPP CSharp.exe
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\bin\Debug\Proiect MPP CSharp.pdb
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.csprojAssemblyReference.cache
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect_MPP_CSharp.LoginForm.resources
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect_MPP_CSharp.Properties.Resources.resources
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.csproj.GenerateResource.cache
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.exe
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.pdb
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect MPP CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect_MPP_CSharp.MainForm.resources
+C:\Users\ripan\Desktop\Proiect MPP CSharp\Proiect MPP CSharp\obj\Debug\Proiect_MPP_CSharp.FormRezervare.resources
